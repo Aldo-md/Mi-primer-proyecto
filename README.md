@@ -1,4 +1,4 @@
-# Mi-primer-proyecto
+# Mi primer proyecto
 Sintáxis para el formato del archivo README.md&lt;--(Extencion). Los componentes de un repositorio, como su configuracion. Asi como tambien, el uso basico de GitHub y sus herramientas. Igualmente para el uso del gestor de archivos.
 
 ¿Que es un **repositorio**?
@@ -13,6 +13,4 @@ Un **repositorio**, depósito o archivo es un sitio centralizado donde se almace
  esto se lo conoce como preservación digital, y requiere un exhaustivo trabajo de control de calidad
  e integridad para realizarse correctamente.
  
- :space_invader: | 🦍 | ♠️ | :panda_face:
-
-🐨
+ :space_invader: | 🦍 | ♠️ | :panda_face: 🐨 
